@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://los-almendros-de-mancora.vercel.app/sitemap.xml

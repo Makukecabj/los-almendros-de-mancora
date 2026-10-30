@@ -1,0 +1,452 @@
+window.__CONFIG = {
+  "business": {
+    "name": "Los Almendros de Máncora",
+    "short_name": "Los Almendros de Máncora",
+    "tagline": "Los Almendros de Máncora · Perú",
+    "description": "Los Almendros de Máncora, tu alojamiento ideal en Perú.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Perú · VWWW+WV4",
+    "title_line1": "Descubrí",
+    "title_em": "Los Almendros de Máncora",
+    "title_line2": "en Perú",
+    "subtitle": "Tu refugio en Perú después de recorrer todo el día."
+  },
+  "location": {
+    "address": "VWWW+WV4, Acceso Veraniego S/N, Máncora, Perú",
+    "district": "Perú",
+    "city": "Perú",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "VWWW+WV4, Acceso Veraniego S/N, Máncora, Perú, Perú",
+    "map_embed": "https://maps.google.com/maps?q=VWWW%2BWV4%2C+Acceso+Veraniego+S%2FN%2C+M%C3%A1ncora%2C+Per%C3%BA%2C+Per%C3%BA&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Perú. Tu punto de partida para explorar.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/54951947029731",
+    "phone": "+54951947029731",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Los+Almendros+de+M%C3%A1ncora/data=!4m10!3m9!1s0x9036910078fa57e9:0x48e37a79c01ec10d!5m2!4m1!1i2!8m2!3d-4.1027256!4d-81.0528355!16s%2Fg%2F11vx45ffkd!19sChIJ6Vf6eACRNpARDcEewHl640g?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Los+Almendros+de+M%C3%A1ncora/data=!4m10!3m9!1s0x9036910078fa57e9:0x48e37a79c01ec10d!5m2!4m1!1i2!8m2!3d-4.1027256!4d-81.0528355!16s%2Fg%2F11vx45ffkd!19sChIJ6Vf6eACRNpARDcEewHl640g?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Quiénes están al frente",
+    "title": "Te contamos sobre Los Almendros de Máncora.",
+    "paragraphs": [
+      "Los Almendros de Máncora es un hostel familiar en Perú, atendido por sus dueños. Ofrecemos habitaciones privadas y compartidas, WiFi, cocina equipada, pileta y parrilla. Estamos en zona centro, cerca de todo lo que necesitás para recorrer la ciudad."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Hablamos con vos en el acto",
+    "Reservá sin intermediarios",
+    "Experiencia de viajero a viajero"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Habitaciones copadas",
+      "description": "Limpias, frescas, con todo lo básico para estar bien.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "Internet gratis",
+      "description": "Para mandar fotos a la familia y no pierdas contacto.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "Bien situados",
+      "description": "Todo lo turístico queda cerca, a pie.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Martín G.",
+      "rating": 5,
+      "text": "Fuimos con amigos y quedamos encantados. Limpio, cómodo y la onda del lugar espectacular."
+    },
+    {
+      "author": "Carolina R.",
+      "rating": 5,
+      "text": "Súper recomendable. Te sentís como en casa desde el primer momento. Volveremos sin dudas."
+    },
+    {
+      "author": "Agustina L.",
+      "rating": 5,
+      "text": "La mejor elección de nuestro viaje. Todo impecable y la gente que atiende te hace sentir bienvenido."
+    },
+    {
+      "author": "Tomás V.",
+      "rating": 5,
+      "text": "Ambiente único, te abren la puerta de casa. De las mejores estadías que tuvimos viajando."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Cómo reservo?",
+      "answer": "Mandanos un WhatsApp o un mail y te confirmamos al toque. Sin vueltas."
+    },
+    {
+      "question": "¿Hay cocina para usar?",
+      "answer": "Sí, cocina completa para que te armes lo que quieras."
+    },
+    {
+      "question": "¿La zona es segura?",
+      "answer": "Sí, es una zona tranquila. Los viajeros la recomiendan."
+    },
+    {
+      "question": "¿Tienen aire acondicionado?",
+      "answer": "Sí, en verano estás fresquito sin problema."
+    },
+    {
+      "question": "¿Cómo me muevo por la ciudad?",
+      "answer": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+    }
+  ],
+  "footer": {
+    "description": "Los Almendros de Máncora",
+    "copyright": "© 2026 Los Almendros de Máncora. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Los Almendros de Máncora",
+        "short_name": "Los Almendros de Máncora",
+        "tagline": "Los Almendros de Máncora · Accommodation",
+        "description": "Los Almendros de Máncora offers everything you need for your stay in Perú.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Perú · VWWW+WV4",
+        "title_line1": "Your next stop:",
+        "title_em": "Los Almendros de Máncora",
+        "title_line2": "",
+        "subtitle": "Your base to explore Perú with everything you need."
+      },
+      "about": {
+        "eyebrow": "Meet the team",
+        "title": "The story of Los Almendros de Máncora.",
+        "paragraphs": [
+          "Los Almendros de Máncora is located in Perú, in a quiet and central area. We have clean and equipped rooms, spacious common areas, pool and BBQ. The perfect place to rest after exploring."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Perú. Walk everywhere from here."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Is there heating?",
+          "answer": "Yes, we keep it warm in winter. Don't worry about the cold."
+        },
+        {
+          "question": "Can I cancel my booking?",
+          "answer": "We're flexible. Just let us know in advance and we'll sort it out."
+        },
+        {
+          "question": "Can I smoke?",
+          "answer": "In outdoor areas, yes. Not inside the building."
+        },
+        {
+          "question": "Is there parking?",
+          "answer": "Yes, we have free parking on the property."
+        },
+        {
+          "question": "Is it close to downtown?",
+          "answer": "Message us and we'll confirm the exact distance and how to get here from the bus station or airport."
+        }
+      ],
+      "trust_bar": [
+        "Fast WhatsApp replies",
+        "No hidden fees or extra charges",
+        "Traveler-to-traveler advice"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "David O.",
+          "rating": 5,
+          "text": "Excellent place to rest after a day out. Highly recommend, we'll be back for sure."
+        },
+        {
+          "author": "Peter D.",
+          "rating": 5,
+          "text": "Perfect spot to unwind. Quiet, clean, with lovely shared spaces to meet travelers."
+        },
+        {
+          "author": "Emma L.",
+          "rating": 5,
+          "text": "Highly recommended. Feels like home away from home. We'll definitely be back."
+        },
+        {
+          "author": "Sarah K.",
+          "rating": 5,
+          "text": "Amazing hospitality from the moment we arrived. Great location and such a warm vibe."
+        }
+      ],
+      "footer": {
+        "description": "Los Almendros de Máncora",
+        "copyright": "© 2026 Los Almendros de Máncora. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LodgingBusiness",
+        "name": "Los Almendros de Máncora",
+        "description": "Habitaciones cómodas y buena onda en Los Almendros de Máncora, Perú.",
+        "url": "",
+        "telephone": "+54951947029731",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Los+Almendros+de+M%C3%A1ncora/data=!4m10!3m9!1s0x9036910078fa57e9:0x48e37a79c01ec10d!5m2!4m1!1i2!8m2!3d-4.1027256!4d-81.0528355!16s%2Fg%2F11vx45ffkd!19sChIJ6Vf6eACRNpARDcEewHl640g?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "VWWW+WV4, Acceso Veraniego S/N, Máncora, Perú",
+          "addressLocality": "Perú",
+          "addressCountry": "AR"
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Habitaciones copadas",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Internet gratis",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Bien situados",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Cómo reservo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Mandanos un WhatsApp o un mail y te confirmamos al toque. Sin vueltas."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay cocina para usar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, cocina completa para que te armes lo que quieras."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿La zona es segura?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, es una zona tranquila. Los viajeros la recomiendan."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Tienen aire acondicionado?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, en verano estás fresquito sin problema."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo me muevo por la ciudad?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+            }
+          }
+        ]
+      }
+    ]
+  }
+};
